@@ -1,16 +1,10 @@
-# Welcome to GitHub
+# LED + RGB no VHDL
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Usando o software Vivado foi programado em VHLD um código para placa Arty 7 que faz algumas ações com 2 LED e 2 RGBs built in na placa. 
 
-## Repositories
+## Descrição do modelo
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro momento os LED se encontram ligados, após o pressionamento do botão os LED acendem em sequência até que o botão seja pressionado novamente alterando novamente para o estado anterior. Utilizando 3 Switches pode-se alterar os estados dos RGBs, cada Switch corresponde a um valor binário que representa uma respectiva cor primária do RGB, alterando esses bits é possível mudar a cor dos RGBs.Um outro botão serve como confirmação para efetivar a mudança dos RGBs.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
