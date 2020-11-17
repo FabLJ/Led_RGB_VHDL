@@ -37,6 +37,8 @@ Na imagem 2 switches estão acionados dando a cor azul fraca no RGB,enquanto os 
 
 Links para o código:
 Main VHDL -> https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/sources_1/new/Trabalho_1.vhd
-XDC       ->https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/constrs_1/new/Trabalho_1.xdc
+
+
+XDC       -> https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/constrs_1/new/Trabalho_1.xdc
 
 
