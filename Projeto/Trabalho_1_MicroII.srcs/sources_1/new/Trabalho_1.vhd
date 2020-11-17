@@ -105,7 +105,7 @@ begin
             cnt_s <= cnt_s +1;
             if (btn1= '1') then
                 contbutton <= contbutton +1;
-                if(contbutton >= 15) then
+                if(contbutton >= 50) then
                 contbutton<=0;
                 but1 <= not but1;
                 end if;
