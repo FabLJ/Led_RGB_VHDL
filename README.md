@@ -10,11 +10,11 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 
 ## Material
 -Placa Xilinx Arty Artix-7 35T;
-- [x]2 Botões built-in;
+- [X]2 Botões built-in;
 
-- [x]3 Switches built-in;
+- [X]3 Switches built-in;
 
-- [x]Leds RGB built-in;
+- [X]Leds RGB built-in;
 
 - [x]2 Leds Comuns built-in;
 
