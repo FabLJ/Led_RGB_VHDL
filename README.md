@@ -9,13 +9,20 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 ## Material
-Placa Xilinx Arty Artix-7 35T
-2 Botões built-in
-3 Switches built-in
-2 Leds RGB built-in
-2 Leds Comuns built-in
-Cabo USB micro
-Software VIVADO
+Placa Xilinx Arty Artix-7 35T;
+2 Botões built-in;
+
+3 Switches built-in;
+
+2 Leds RGB built-in;
+
+2 Leds Comuns built-in;
+
+Cabo USB micro;
+
+Software VIVADO;
+
+
 ## Imagem do ambiente de desenvolvimento
 ![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/Vivado.PNG)
 
