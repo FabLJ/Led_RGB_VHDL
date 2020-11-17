@@ -17,7 +17,7 @@ Placa Xilinx Arty Artix-7 35T
 Cabo USB micro
 Software VIVADO
 ## Imagem do ambiente de desenvolvimento
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/vivado)
+![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/Vivado.PNG)
 
 
 ## Circuito Digital Gerado
