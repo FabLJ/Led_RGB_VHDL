@@ -9,18 +9,18 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 ## Material
-Placa Xilinx Arty Artix-7 35T;
-2 Botões built-in;
+-Placa Xilinx Arty Artix-7 35T;
+- [x]2 Botões built-in;
 
-3 Switches built-in;
+- [x]3 Switches built-in;
 
-2 Leds RGB built-in;
+- [x]Leds RGB built-in;
 
-2 Leds Comuns built-in;
+- [x]2 Leds Comuns built-in;
 
-Cabo USB micro;
+- [x]Cabo USB micro;
 
-Software VIVADO;
+- [x]Software VIVADO;
 
 
 ## Imagem do ambiente de desenvolvimento
@@ -32,5 +32,7 @@ Software VIVADO;
 
 ## Placa com o código rodando
 ![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_210423955.jpg)
+
+Na imagem 2 switches estão acionados dando a cor azul fraca no RGB,enquanto os leds normais alternam.
 
 
