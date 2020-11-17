@@ -33,7 +33,7 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 ## Placa com o código rodando
 
 
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_210423955.jpg)
+![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_214607844.jpg)
 Apenas RGB azul ligado, enquanto os leds normais alternam.
 
 ![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_214643995.jpg)
