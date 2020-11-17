@@ -9,7 +9,7 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 ## Circuito Digital Gerado
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/Schem.PNG)
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 
