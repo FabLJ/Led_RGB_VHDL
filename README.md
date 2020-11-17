@@ -6,7 +6,7 @@ Usando o software Vivado foi programado em VHLD um código para placa Arty 7 que
 
 Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro momento os LED se encontram ligados, após o pressionamento do botão os LED acendem em sequência até que o botão seja pressionado novamente alterando novamente para o estado anterior. Utilizando 3 Switches pode-se alterar os estados dos RGBs, cada Switch corresponde a um valor binário que representa uma respectiva cor primária do RGB, alterando esses bits é possível mudar a cor dos RGBs.Um outro botão serve como confirmação para efetivar a mudança dos RGBs.
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+
 
 ## Material
 -Placa Xilinx Arty Artix-7 35T;
