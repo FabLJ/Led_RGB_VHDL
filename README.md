@@ -35,7 +35,7 @@ Utilizando 1 botão muda-se a configuração dos LED comuns, em  um primeiro mom
 
 Na imagem 2 switches estão acionados dando a cor azul fraca no RGB,enquanto os leds normais alternam.
 
-##Links para o código:
+## Links para o código:
 #### Main VHDL:
 [GitHub Pages](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/sources_1/new/Trabalho_1.vhd)
 
